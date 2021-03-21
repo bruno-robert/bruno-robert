@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Any open source projects, feel free to ping me.**
 
-- 👨‍💻 All of my projects are available at [https://rbr.uno](https://rbr.uno)
+<!-- - 👨‍💻 All of my projects are available at [https://rbr.uno](https://rbr.uno) -->
 
 - 💬 Ask me about **javascript, python or anything code related**
 
