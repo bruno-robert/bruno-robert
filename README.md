@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Robert</h1>
-<h3 align="center">A javascript and python dev @ Gurus Solutions</h3>
+<h3 align="center">A javascript and python dev @ <a href="https://gurussolutions.com">Gurus Solutions</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno-robert&label=Profile%20views&color=0e75b6&style=flat" alt="bruno-robert" /> </p>
 
