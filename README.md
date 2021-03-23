@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruno Robert</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://rbr.uno">Bruno Robert</a></h1>
 <h3 align="center">A javascript and python dev @ <a href="https://gurussolutions.com">Gurus Solutions</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno-robert&label=Profile%20views&color=0e75b6&style=flat" alt="bruno-robert" /> </p>
@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/brunorobert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bruno_robert" height="30" width="40" /></a>
-<a href="https://twitter.com/bruno__robert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bruno__robert" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brunojeanluke/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brunojeanluke/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/robert-bruno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="robert-bruno" height="30" width="40" /></a>
+  <a href="https://dev.to/brunorobert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bruno_robert" height="30" width="40" /></a>
+  <a href="https://twitter.com/bruno__robert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bruno__robert" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/brunojeanluke/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brunojeanluke/" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/robert-bruno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="robert-bruno" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
