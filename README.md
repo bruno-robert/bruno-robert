@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [a tool to translate scanned books](https://github.com/bruno-robert/polybiblioglot)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **rust**
 
-- 👯 I’m looking to collaborate on **Any open source projects, feel free to ping me.**
+- 👯 I’m looking to collaborate on **fun open source projects, feel free to ping me.**
 
 <!-- - 👨‍💻 All of my projects are available at [https://rbr.uno](https://rbr.uno) -->
 
