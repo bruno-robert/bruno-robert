@@ -89,8 +89,5 @@
 
 ### Some Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-robert&show_icons=true&locale=en&layout=compact" alt="bruno-robert" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno-robert&show_icons=true&theme=radical&locale=en" alt="bruno-robert" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-robert&theme=dark" alt="bruno-robert" /></p>
