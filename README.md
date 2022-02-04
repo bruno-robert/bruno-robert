@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruno-robert" alt="bruno-robert" /></a> </p>
 
-- 🔭 I’m currently working on [a tool to translate scanned books](https://github.com/bruno-robert/polybiblioglot)
+- 🔭 I’m currently working on [clusta](clusta.live), a way to store your mind in the machine.
 
 - 🌱 I’m currently learning **rust**
 
-- 👯 I’m looking to collaborate on **fun open source projects, feel free to ping me.**
+- 💼 I spend most of my time on Gitlab, feel free to visit [my profile](https://gitlab.com/brunorobert) there!
 
 <!-- - 👨‍💻 All of my projects are available at [https://rbr.uno](https://rbr.uno) -->
 
