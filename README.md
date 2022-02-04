@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruno-robert" alt="bruno-robert" /></a> </p>
 
-- 🔭 I’m currently working on [clusta](clusta.live), a way to store your mind in the machine.
+- 🔭 I’m currently working on [clusta](https://clusta.live), a way to store your mind in the machine.
 
 - 🌱 I’m currently learning **rust**
 
