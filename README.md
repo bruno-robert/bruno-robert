@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **javascript, python or anything code related**
 
-- 📫 How to reach me **bruno.jeanluke@icloud.com**
+- 📫 How to reach me **contact.bruno@icloud.com**
 
 - ⚡ Fun fact **Armadillos are bulletproof**
 
