@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://rbr.uno">Bruno Robert</a></h1>
-<h3 align="center">Software Engineer @ <a href="https://hummingbot.io">HummingBot</a></h3>
+<h3 align="center">Software Engineer @ <a href="https://hummingbot.io">CoinAlpha</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno-robert&label=Profile%20views&color=0e75b6&style=flat" alt="bruno-robert" /> </p>
 
